@@ -1,6 +1,6 @@
 # XRAY_DETECTION
 
-This repository contains the code and resources for an X-ray image classification project. The project uses deep learning techniques to detect abnormalities in X-ray images.
+This repository contains the code and resources for an X-ray image classification project. The project uses deep learning techniques to classify Chest,Knee,Abdomen,Hand and Shoulders Xray
 
 ## Project Overview
 
@@ -65,6 +65,4 @@ The model achieved an accuracy of 92.5% on the test dataset. The accuracy graph 
 
 Contributions are welcome. Please submit a pull request or open an issue for any improvements or suggestions.
 
-## License
 
-This project is licensed under the MIT License.

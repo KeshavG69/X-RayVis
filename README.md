@@ -1,4 +1,4 @@
-# XRAY_DETECTION
+# X-RayVis
 
 This repository contains the code and resources for an X-ray image classification project. The project uses deep learning techniques to classify Chest,Knee,Abdomen,Hand and Shoulders Xray
 
@@ -33,8 +33,8 @@ The dataset used for this project is the [Unifesp X-ray Body Part Classifier](ht
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KeshavG69/XRAY_DETECTION.git
-   cd XRAY_DETECTION
+   git clone https://github.com/KeshavG69/X-RayVis.git
+   cd X-RayVis
    ```
 
 2.Install the required packages:
@@ -60,7 +60,7 @@ python main.py
 The model achieved an accuracy of 92.5% on the test dataset. The accuracy graph of the classifier model is shown below:
 
 
-![Accuraccy Graph](https://github.com/KeshavG69/XRAY_DETECTION/blob/main/output.png)
+![Accuraccy Graph](https://github.com/KeshavG69/X-RayVis/blob/main/output.png)
 ## Contributing
 
 Contributions are welcome. Please submit a pull request or open an issue for any improvements or suggestions.
